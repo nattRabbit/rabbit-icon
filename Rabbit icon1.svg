@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 2000 2000" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="All" vectornator:layerName="All">
+<path d="M1101.75 440.238C1087.08 97.986 586.076 199.382 617.163 853.911C449.233 1009.44 446.543 1103.44 431.834 1289.91C321.887 1606.52 504.419 1713.36 898.599 1749.72C1286.19 1770.91 1537.28 1628.78 1445.69 1308.61C1448.24 1112.34 1461.6 1063.37 1377.62 905.893C1819.16 386.399 1366.23 78.3856 1101.77 438.309M1105.89 432.903C1047.56 564.749 1029.75 631.529 1004.69 813.974" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="21.3271" vectornator:layerName="Outline"/>
+<path d="M825.068 1449.71C864.005 1473.47 915.947 1452.55 918.231 1385.91C916.321 1457.53 982.007 1472.19 1018.55 1456.86" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="21.3271" vectornator:layerName="Mouth"/>
+<path d="M643.487 1303.36C601.945 1287.7 575.145 1254.64 583.628 1229.52C592.111 1204.39 632.664 1196.73 674.206 1212.39C715.747 1228.05 742.547 1261.11 734.064 1286.24C725.581 1311.36 685.029 1319.03 643.487 1303.36ZM1196.78 1230.38C1239.29 1217.94 1279.14 1228.71 1285.8 1254.44C1292.46 1280.17 1263.4 1311.12 1220.9 1323.56C1178.4 1336 1138.55 1325.23 1131.89 1299.5C1125.23 1273.77 1154.28 1242.82 1196.78 1230.38Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" vectornator:layerName="Eyes"/>
+</g>
+</svg>

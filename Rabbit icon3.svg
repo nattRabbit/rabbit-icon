@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 2000 2000" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="All" vectornator:layerName="All">
+<path d="M1360.5 475.596C1383.97 133.835 874.796 178.906 832.927 832.834C648.749 968.726 635.625 1061.85 600.277 1245.53C455.816 1547.95 625.338 1674.43 1013.03 1754.38C1395.86 1818.53 1661.2 1705.18 1605.77 1376.82C1630.13 1182.06 1648.84 1134.87 1582.9 969.033C2079.45 501.844 1663.57 145.388 1360.73 473.681M1365.42 468.766C1292.8 593.311 1267.68 657.697 1222.49 836.225" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="21.3271" vectornator:layerName="Outline"/>
+<path d="M1037.65 1375.15C1005.55 1408.19 1020.37 1460.49 1072.69 1458.13C1042.12 1497.03 1032.33 1547.61 1083.32 1551.05" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="21.3271" vectornator:layerName="Mouth"/>
+<path d="M809.123 1282.43C769.58 1262.24 746.622 1226.41 757.845 1202.38C769.068 1178.36 810.222 1175.25 849.765 1195.43C889.308 1215.61 912.266 1251.45 901.043 1275.47C889.82 1299.5 848.666 1302.61 809.123 1282.43ZM1367.11 1271.4C1410.73 1263.76 1449.13 1278.9 1452.89 1305.21C1456.65 1331.53 1424.33 1359.05 1380.71 1366.69C1337.09 1374.33 1298.68 1359.19 1294.93 1332.88C1291.17 1306.57 1323.48 1279.04 1367.11 1271.4Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" vectornator:layerName="Eyes"/>
+<path d="M250.248 752.141C-66.1211 454.024 371.12 282.66 482.531 487.762C434.982 251.347 854.098 118.214 828.299 534.791C810.041 686.828 721.604 768.322 648.704 920.436C496.749 854.451 356.415 846.85 250.248 752.141Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="19.5079" vectornator:layerName="Hearts"/>
+</g>
+</svg>
